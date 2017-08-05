@@ -1,0 +1,14 @@
+.img-lg{
+	width: 150px;
+	height: 150px;
+}
+.pad-ver {
+	padding-top: 0;
+	padding-bottom: 0;
+	margin: 0 auto;
+	margin-bottom: 15px;
+}
+.fileinput-filename {
+	display: block;
+	margin-top: 10px;
+}
