@@ -1,7 +1,7 @@
 <?php
 include ("phpagi-asmanager.php");
 
-$host_name = '192.168.1.8';
+$host_name = '192.168.1.10';
 $pass_word = 's9q7l5.,777';
 $user_name = 'root';
 $database_name = 'foco';

@@ -1,5 +1,5 @@
 <?php
-$host_name = '192.168.1.8';
+$host_name = '192.168.1.10';
 $user_name = 'root';
 $pass_word = 's9q7l5.,777';
 $database_name = 'foco';

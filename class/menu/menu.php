@@ -162,7 +162,7 @@ class Menu
 
   public function consultaMenu($idPadre)
   {
-    $host_name = '192.168.1.8';
+    $host_name = '192.168.1.10';
     $pass_word = 's9q7l5.,777';
     //$host_name = 'localhost';
     //$pass_word = '';
@@ -203,7 +203,7 @@ class Menu
       case 'cal_eva':
         switch($this->nivelUsuario){
           case '6':
-            $host_name = '192.168.1.8';
+            $host_name = '192.168.1.10';
             $pass_word = 's9q7l5.,777';
             //$host_name = 'localhost';
             //$pass_word = '';
